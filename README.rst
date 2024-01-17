@@ -1,19 +1,9 @@
 #######
-ai gram
+aiogram
 #######
 
 
-
-**aiogram** is a modern and fully asynchronous framework for
-`Telegram Bot API <https://core.telegram.org/bots/api>`_ written in Python 3.8 using
-`asyncio <https://docs.python.org/3/library/asyncio.html>`_ and
-`aiohttp <https://github.com/aio-libs/aiohttp>`_.
-
 Make your bots faster and more powerful!
-
-Documentation:
- - 🇺🇸 `English <https://docs.aiogram.dev/en/dev-3.x/>`_
- - 🇺🇦 `Ukrainian <https://docs.aiogram.dev/uk_UA/dev-3.x/>`_
 
 
 Features
@@ -38,13 +28,3 @@ Features
     with `asyncio <https://docs.python.org/3/library/asyncio.html>`_
     before beginning to use **aiogram**.
 
-    If you have any questions, you can visit our community chats on Telegram:
-
-    - 🇺🇸 `@aiogram <https://t.me/aiogram>`_
-    - 🇺🇦 `@aiogramua <https://t.me/aiogramua>`_
-    - 🇺🇿 `@aiogram_uz <https://t.me/aiogram_uz>`_
-    - 🇰🇿 `@aiogram_kz <https://t.me/aiogram_kz>`_
-    - 🇷🇺 `@aiogram_ru <https://t.me/aiogram_ru>`_
-    - 🇮🇷 `@aiogram_fa <https://t.me/aiogram_fa>`_
-    - 🇮🇹 `@aiogram_it <https://t.me/aiogram_it>`_
-    - 🇧🇷 `@aiogram_br <https://t.me/aiogram_br>`_
